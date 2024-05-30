@@ -1,0 +1,235 @@
+
+> taskbox@0.2.0 build-storybook
+> ng run taskbox:build-storybook --output-dir C:\Users\JUANMA~1.MOL\AppData\Local\Temp\chromatic--31628-qHWgpH6f93Ul
+
+[0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+
+1.1.23
+
+TypeScript version used by Compodoc : 5.2.2
+
+TypeScript version of current project : 5.2.2
+
+Node.js version : v20.6.1
+
+Operating system : Windows 10
+
+[10:58:22] No configuration file found, switching to CLI flags.
+[10:58:23] Using tsconfig file : C:\Users\juan.maria.molins\OneDrive - Accenture\Documents\GitHub\Tests\taskbox\.storybook\tsconfig.json
+[10:58:23] Including      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/.storybook/preview.ts
+[10:58:23] Excluding      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/favicon.ico
+[10:58:23] Excluding      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/index.html
+[10:58:23] Including      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/main.ts
+[10:58:23] Including      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/polyfills.ts
+[10:58:23] Excluding      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/storybook.test.js
+[10:58:23] Excluding      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/styles.css
+[10:58:23] Excluding      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/app/app.component.css
+[10:58:23] Excluding      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/app/app.component.html
+[10:58:23] Including      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/app/app.component.ts
+[10:58:23] Including      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/app/app.module.ts
+[10:58:23] Including      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/environments/environment.prod.ts
+[10:58:23] Including      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/environments/environment.ts
+[10:58:23] Including      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/stories/button.component.ts
+[10:58:23] Excluding      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/stories/button.css
+[10:58:23] Including      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/stories/Button.stories.ts
+[10:58:23] Including      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/stories/header.component.ts
+[10:58:23] Excluding      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/stories/header.css
+[10:58:23] Including      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/stories/Header.stories.ts
+[10:58:23] Excluding      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/stories/Introduction.mdx
+[10:58:23] Including      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/stories/page.component.ts
+[10:58:23] Excluding      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/stories/page.css
+[10:58:23] Including      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/stories/Page.stories.ts
+[10:58:23] Including      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/stories/User.ts
+[10:58:23] Including      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/app/models/task.model.ts
+[10:58:23] Including      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/app/components/inbox-screen.component.ts
+[10:58:23] Including      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/app/components/pure-inbox-screen.component.ts
+[10:58:23] Including      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/app/components/pure-inbox-screen.stories.ts
+[10:58:23] Including      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/app/components/pure-task-list.component.ts.ts
+[10:58:23] Including      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/app/components/pure-task-list.stories.ts
+[10:58:23] Including      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/app/components/task-list.component.ts
+[10:58:23] Including      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/app/components/task-list.stories.ts
+[10:58:23] Including      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/app/components/task.component.ts
+[10:58:23] Including      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/app/components/task.module.ts
+[10:58:23] Including      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/app/components/task.stories.ts
+[10:58:23] Including      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/app/state/task.state.ts
+[10:58:23] Excluding      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/assets/icon/percolate.eot
+[10:58:23] Excluding      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/assets/icon/percolate.svg
+[10:58:23] Excluding      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/assets/icon/percolate.ttf
+[10:58:23] Excluding      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/assets/icon/percolate.woff
+[10:58:23] Excluding      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/assets/font/OpenSans-Light-webfont.eot
+[10:58:23] Excluding      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/assets/font/OpenSans-Light-webfont.svg
+[10:58:23] Excluding      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/assets/font/OpenSans-Light-webfont.ttf
+[10:58:23] Excluding      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/assets/font/OpenSans-Light-webfont.woff
+[10:58:23] Excluding      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/assets/font/OpenSans-Regular-webfont.eot
+[10:58:23] Excluding      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/assets/font/OpenSans-Regular-webfont.svg
+[10:58:23] Excluding      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/assets/font/OpenSans-Regular-webfont.ttf
+[10:58:23] Excluding      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/assets/font/OpenSans-Regular-webfont.woff
+[10:58:23] Excluding      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/stories/assets/code-brackets.svg
+[10:58:23] Excluding      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/stories/assets/colors.svg
+[10:58:23] Excluding      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/stories/assets/comments.svg
+[10:58:23] Excluding      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/stories/assets/direction.svg
+[10:58:23] Excluding      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/stories/assets/flow.svg
+[10:58:23] Excluding      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/stories/assets/plugin.svg
+[10:58:23] Excluding      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/stories/assets/repo.svg
+[10:58:23] Excluding      : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/stories/assets/stackalt.svg
+[10:58:23] Searching package.json file
+[10:58:23] package.json file found
+[10:58:23] Processing package.json dependencies
+[10:58:23] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
+[10:58:23] README.md file found
+[10:58:23] Error during C:\Users\juan.maria.molins\OneDrive - Accenture\Documents\GitHub\Tests\taskbox\CHANGELOG read
+[10:58:23] Continuing without CHANGELOG.md file
+[10:58:23] Error during C:\Users\juan.maria.molins\OneDrive - Accenture\Documents\GitHub\Tests\taskbox\CONTRIBUTING read
+[10:58:23] Continuing without CONTRIBUTING.md file
+[10:58:23] LICENSE.md file found
+[10:58:23] Error during C:\Users\juan.maria.molins\OneDrive - Accenture\Documents\GitHub\Tests\taskbox\TODO read
+[10:58:23] Continuing without TODO.md file
+[10:58:23] Get dependencies data
+[10:58:24] parsing        : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/.storybook/preview.ts
+[10:58:25] found          : preview
+[10:58:25] parsing        : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/main.ts
+[10:58:25] parsing        : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/polyfills.ts
+[10:58:25] parsing        : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/app/app.component.ts
+[10:58:25] found          : AppComponent
+[10:58:25] parsing        : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/app/app.module.ts
+[10:58:25] found          : AppModule
+[10:58:25]                : - imports:
+[10:58:25]                : 	- BrowserModule
+[10:58:25]                : 	- TaskModule
+[10:58:25]                : 	- NgxsModule
+[10:58:25]                : 	- NgxsReduxDevtoolsPluginModule
+[10:58:25]                : 	- NgxsLoggerPluginModule
+[10:58:25]                : - declarations:
+[10:58:25]                : 	- AppComponent
+[10:58:25]                : 	- InboxScreenComponent
+[10:58:25]                : 	- PureInboxScreenComponent
+[10:58:25]                : - bootstrap:
+[10:58:25]                : 	- AppComponent
+[10:58:25] parsing        : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/environments/environment.prod.ts
+[10:58:25] found          : environment
+[10:58:25] parsing        : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/environments/environment.ts
+[10:58:25] found          : environment
+[10:58:25] parsing        : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/stories/button.component.ts
+[10:58:25] found          : ButtonComponent
+[10:58:25]                : - imports:
+[10:58:25]                : 	- CommonModule
+[10:58:25] parsing        : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/stories/Button.stories.ts
+[10:58:25] found          : meta
+[10:58:25] found          : Story
+[10:58:25] found          : Primary
+[10:58:25] found          : Secondary
+[10:58:25] found          : Large
+[10:58:25] found          : Small
+[10:58:25] parsing        : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/stories/header.component.ts
+[10:58:25] found          : HeaderComponent
+[10:58:25] parsing        : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/stories/Header.stories.ts
+[10:58:25] found          : meta
+[10:58:25] found          : Story
+[10:58:25] found          : LoggedIn
+[10:58:25] found          : LoggedOut
+[10:58:25] parsing        : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/stories/page.component.ts
+[10:58:25] found          : PageComponent
+[10:58:25] parsing        : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/stories/Page.stories.ts
+[10:58:25] found          : meta
+[10:58:25] found          : Story
+[10:58:25] found          : LoggedOut
+[10:58:25] found          : LoggedIn
+[10:58:25] parsing        : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/stories/User.ts
+[10:58:25] found          : User
+[10:58:25] parsing        : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/app/models/task.model.ts
+[10:58:25] found          : Task
+[10:58:25] parsing        : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/app/components/inbox-screen.component.ts
+[10:58:25] found          : InboxScreenComponent
+[10:58:25] parsing        : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/app/components/pure-inbox-screen.component.ts
+[10:58:25] found          : PureInboxScreenComponent
+[10:58:25] parsing        : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/app/components/pure-inbox-screen.stories.ts
+[10:58:25] found          : Template
+[10:58:25] found          : Default
+[10:58:25] found          : Error
+[10:58:25] parsing        : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/app/components/pure-task-list.component.ts.ts
+[10:58:25] found          : PureTaskListComponent
+[10:58:25] parsing        : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/app/components/pure-task-list.stories.ts
+[10:58:25] found          : Template
+[10:58:25] found          : Default
+[10:58:25] found          : WithPinnedTasks
+[10:58:25] found          : Loading
+[10:58:25] found          : Empty
+[10:58:25] parsing        : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/app/components/task-list.component.ts
+[10:58:25] found          : TaskListComponent
+[10:58:25] parsing        : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/app/components/task-list.stories.ts
+[10:58:25] found          : Template
+[10:58:25] found          : Default
+[10:58:25] found          : WithPinnedTasks
+[10:58:25] found          : Loading
+[10:58:25] found          : Empty
+[10:58:25] parsing        : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/app/components/task.component.ts
+[10:58:25] found          : TaskComponent
+[10:58:25] parsing        : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/app/components/task.module.ts
+[10:58:25] found          : TaskModule
+[10:58:25]                : - imports:
+[10:58:25]                : 	- CommonModule
+[10:58:25]                : 	- NgxsModule
+[10:58:25]                : - exports:
+[10:58:25]                : 	- TaskComponent
+[10:58:25]                : 	- TaskListComponent
+[10:58:25]                : - declarations:
+[10:58:25]                : 	- TaskComponent
+[10:58:25]                : 	- TaskListComponent
+[10:58:25]                : 	- PureTaskListComponent
+[10:58:25] parsing        : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/app/components/task.stories.ts
+[10:58:25] found          : actionsData
+[10:58:25] found          : Template
+[10:58:25] found          : Default
+[10:58:25] found          : Pinned
+[10:58:25] found          : Archived
+[10:58:25] parsing        : C:/Users/juan.maria.molins/OneDrive - Accenture/Documents/GitHub/Tests/taskbox/src/app/state/task.state.ts
+[10:58:25] found          : actions
+[10:58:25] found          : ArchiveTask
+[10:58:25] found          : PinTask
+[10:58:25] found          : AppError
+[10:58:25] found          : defaultTasks
+[10:58:25] found          : TaskStateModel
+[10:58:25] found          : TasksState
+[10:58:25] -------------------
+[10:58:25] Project statistics 
+[10:58:25] - files      : 27
+[10:58:25] - module     : 2
+[10:58:25] - component  : 9
+[10:58:25] - class      : 5
+[10:58:25] - interface  : 2
+[10:58:25] -------------------
+[10:58:25] Prepare components
+[10:58:25]  ButtonComponent has styleUrls, include them
+[10:58:25]  HeaderComponent has styleUrls, include them
+[10:58:25]  PageComponent has styleUrls, include them
+[10:58:25] Prepare modules
+[10:58:25] Prepare classes
+[10:58:25] Prepare interfaces
+[10:58:25] Prepare miscellaneous
+[10:58:25] Process documentation coverage report
+[10:58:25] Generating documentation in export format json
+[10:58:25] Documentation generated in ./ in 13.34 seconds
+info => Cleaning outputDir: C:\Users\JUANMA~1.MOL\AppData\Local\Temp\chromatic--31628-qHWgpH6f93Ul
+
+info => Loading presets
+info => Building manager..
+info => Manager built (9.46 s)
+info => Building preview..
+info => Copying static files: C:\Users\juan.maria.molins\OneDrive - Accenture\Documents\GitHub\Tests\taskbox\node_modules\@storybook\manager\static at C:\Users\JUANMA~1.MOL\AppData\Local\Temp\chromatic--31628-qHWgpH6f93Ul\sb-common-assets
+info Using Babel compiler
+info Addon-docs: using MDX2
+info => Using implicit CSS loaders
+info => Using angular browser target options from "taskbox:build"
+info => Using angular project with "tsConfig:C:\Users\juan.maria.molins\OneDrive - Accenture\Documents\GitHub\Tests\taskbox\.storybook\tsconfig.json"
+info => Using default Webpack5 setup
